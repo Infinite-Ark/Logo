@@ -1,58 +1,10 @@
 {
 	"Images": [
     	{
-        	"URL": "https://drive.google.com/uc?id=1-UkmCPIsesjuppbiD812fRA0BKcmJ6sQ",
-        	"Pos": "TopLeft",
-        	"Persist": false,
-        	"FadeTime": 5
-    	},
-    	{
-        	"URL": "https://drive.google.com/uc?id=1dAYJxsCfglJx_6gXh34Lub_gDyzV0db6",
-        	"Pos": "TopMid",
-        	"Persist": false,
-        	"FadeTime": 5
-    	},
-    	{
-        	"URL": "https://drive.google.com/uc?id=1xJ8rDf4aN6z5afpMKO70wpivFQwstHtS",
-        	"Pos": "TopRight",
-        	"Persist": false,
-        	"FadeTime": 5
-    	},
-    	{
-        	"URL": "https://drive.google.com/uc?id=1qxEYKHKCwDfUh47PYIANXY8dc9pEGWZR",
-        	"Pos": "MidLeft",
-        	"Persist": false,
-        	"FadeTime": 5
-    	},
-    	{
-        	"URL": "https://drive.google.com/uc?id=1e4UaLhWCjQkOv9jPtexdFuFNPPkwyCXA",
-        	"Pos": "MidMid",
-        	"Persist": false,
-        	"FadeTime": 5
-    	},
-    	{
-        	"URL": "https://drive.google.com/uc?id=1XQvszOUQKpJdNGuZRLCOR4ETf-jCwooA",
-        	"Pos": "MidRight",
-        	"Persist": false,
-        	"FadeTime": 5
-    	},
-    	{
         	"URL": "i.imgur.com/wrkp2jl.png",
         	"Pos": "BottomLeft",
         	"Persist": true,
-        	"FadeTime": 5
-    	},
-    	{
-        	"URL": "https://drive.google.com/uc?id=1faWP8SOWKXCPJkNyUssqaTvHztOxEgXJ",
-        	"Pos": "BottomMid",
-                "Persist": false,
-        	"FadeTime": 5
-    	},
-    	{
-        	"URL": "https://drive.google.com/uc?id=1RgPcWQ__4mS5e2xR6FECHJCezgm0jOs4",
-        	"Pos": "BottomRight",
-        	"Persist": false,
-        	"FadeTime": 5
+        	"FadeTime": 1
     	}
 	]
 }
