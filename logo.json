@@ -1,6 +1,12 @@
 {
 	"Images": [
     	{
+        	"URL": "https://drive.google.com/uc?id=1xJ8rDf4aN6z5afpMKO70wpivFQwstHtS",
+        	"Pos": "TopRight",
+        	"Persist": true,
+        	"FadeTime": 5
+    	},
+	{
         	"URL": "drive.google.com/file/d/1tLiuKfZpIuwL3Xik_Wj59OVZU1TC2xOI/view?usp=sharing",
         	"Pos": "BottomLeft",
         	"Persist": false,
